@@ -1,6 +1,6 @@
 # Servy
 
-**TODO: Add description**
+**A Sample HTTP Server built while taking the Developing with Elixir/OTP course from Pragmatic Studio**
 
 ## Installation
 
